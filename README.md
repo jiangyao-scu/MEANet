@@ -19,11 +19,11 @@ Trained only with with DUTLF-FS on [baidu pan](https://pan.baidu.com/s/1luKlhBIX
 # Citation
 Please cite our paper if you find the work useful: 
 
-        @article{JIANG202278,
-        title = {MEANet: Multi-modal edge-aware network for light field salient object detection},
-        journal = {Neurocomputing},
-        volume = {491},
-        pages = {78-90},
-        year = {2022},
-        author = {Yao Jiang and Wenbo Zhang and Keren Fu and Qijun Zhao}
-        }
+      @article{JIANG202278,
+      title = {MEANet: Multi-modal edge-aware network for light field salient object detection},
+      journal = {Neurocomputing},
+      volume = {491},
+      pages = {78-90},
+      year = {2022},
+      author = {Yao Jiang and Wenbo Zhang and Keren Fu and Qijun Zhao}
+      }
