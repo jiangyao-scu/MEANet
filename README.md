@@ -11,9 +11,9 @@ Coming soon.
 # Saliency map
 We relearsed two versions of the saliency map: 
 
-[Trained with additional 100 HFUT samples](https://pan.baidu.com/s/1VLCMMR9Rk1yrb6lrLvQ3xQ?pwd=rrwd) with fetch code: rrwd
+Trained with additional 100 HFUT samples on [baidu pan](https://pan.baidu.com/s/1VLCMMR9Rk1yrb6lrLvQ3xQ?pwd=rrwd) with fetch code: rrwd
 
-[Trained only with with DUTLF-FS](https://pan.baidu.com/s/1luKlhBIXL0HdqxwbZZkgqg?pwd=s7vn) with fetch code: s7vn
+Trained only with with DUTLF-FS on [baidu pan](https://pan.baidu.com/s/1luKlhBIXL0HdqxwbZZkgqg?pwd=s7vn) with fetch code: s7vn
 
 
 # Citation
