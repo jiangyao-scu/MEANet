@@ -9,7 +9,7 @@ Coming soon.
 
 
 # Saliency map
-We relearsed two versions of the saliency map: 
+We released two versions of the saliency map: 
 
 Trained with additional 100 samples from HFUT-Lytro on [baidu pan](https://pan.baidu.com/s/1VLCMMR9Rk1yrb6lrLvQ3xQ?pwd=rrwd) with fetch code: rrwd
 
