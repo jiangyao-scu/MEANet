@@ -21,7 +21,7 @@ python -m torch.distributed.launch --nproc_per_node=4 train.py
 
 ## To Test
 * Download the [testing dataset](https://github.com/kerenfu/LFSOD-Survey) and have it in the 'dataset/test/' folder. 
-* Download the [already-trained MEANet pytorch model](#trained-model-for-testing) and have it in the 'trained_weight/' folder.
+* Download the already-trained [MEANet model](#trained-model-for-testing) and have it in the 'trained_weight/' folder.
 * Change the `weight_name` in `test.py` to the model you want to evaluated.
 * Start to test with
 ```sh
