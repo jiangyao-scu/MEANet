@@ -40,7 +40,7 @@ Trained only with with DUTLF-FS on [baidu pan](https://pan.baidu.com/s/1f_lBt1te
 ## Saliency map
 We released two versions of the saliency map: 
 
-Trained with additional 100 samples from HFUT-Lytro on [baidu pan](https://pan.baidu.com/s/1VLCMMR9Rk1yrb6lrLvQ3xQ?pwd=rrwd) with fetch code: rrwd
+Trained with additional 100 samples from HFUT-Lytro on [baidu pan](https://pan.baidu.com/s/1SR6wXKgpBfw9izsZlI4lXw?pwd=x7xa) with fetch code: x7xa
 
 Trained only with with DUTLF-FS on [baidu pan](https://pan.baidu.com/s/1luKlhBIXL0HdqxwbZZkgqg?pwd=s7vn) with fetch code: s7vn
 
