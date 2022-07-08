@@ -35,14 +35,14 @@ We released two versions of the trained model:
 
 Trained with additional 100 samples from HFUT-Lytro on [baidu pan](https://pan.baidu.com/s/1kd2ZjhwNcB4cEdGFwIUgUg?pwd=0o0r) with fetch code: 0o0r
 
-Trained only with with DUTLF-FS on [baidu pan](https://pan.baidu.com/s/1f_lBt1tebq9oQzIeknw9cg?pwd=75bn) with fetch code: 75bn
+Trained only with DUTLF-FS on [baidu pan](https://pan.baidu.com/s/1f_lBt1tebq9oQzIeknw9cg?pwd=75bn) with fetch code: 75bn
 
 ## Saliency map
 We released two versions of the saliency map: 
 
 Trained with additional 100 samples from HFUT-Lytro on [baidu pan](https://pan.baidu.com/s/1SR6wXKgpBfw9izsZlI4lXw?pwd=x7xa) with fetch code: x7xa
 
-Trained only with with DUTLF-FS on [baidu pan](https://pan.baidu.com/s/1luKlhBIXL0HdqxwbZZkgqg?pwd=s7vn) with fetch code: s7vn
+Trained only with DUTLF-FS on [baidu pan](https://pan.baidu.com/s/1luKlhBIXL0HdqxwbZZkgqg?pwd=s7vn) with fetch code: s7vn
 
 
 # Citation
