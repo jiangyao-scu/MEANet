@@ -33,16 +33,16 @@ python test.py
 ## Trained model for testing
 We released two versions of the trained model: 
 
-Trained with additional 100 samples from HFUT-Lytro on [baidu pan](https://pan.baidu.com/s/1kd2ZjhwNcB4cEdGFwIUgUg?pwd=0o0r) with fetch code: 0o0r
+Trained with additional 100 samples from HFUT-Lytro on [baidu pan](https://pan.baidu.com/s/1kd2ZjhwNcB4cEdGFwIUgUg?pwd=0o0r) with fetch code: 0o0r or on [Google drive](https://drive.google.com/file/d/1TN0qfKz79zfBfgG1uaUv-9L-iO0bgALf/view?usp=share_link)
 
-Trained only with DUTLF-FS on [baidu pan](https://pan.baidu.com/s/1f_lBt1tebq9oQzIeknw9cg?pwd=75bn) with fetch code: 75bn
+Trained only with DUTLF-FS on [baidu pan](https://pan.baidu.com/s/1f_lBt1tebq9oQzIeknw9cg?pwd=75bn) with fetch code: 75bn or on [Google drive](https://drive.google.com/file/d/13O7yvVBj7onGCCE5dRrWwWJmaJla_Llo/view?usp=share_link)
 
 ## Saliency map
 We released two versions of the saliency map: 
 
 Trained with additional 100 samples from HFUT-Lytro on [baidu pan](https://pan.baidu.com/s/1SR6wXKgpBfw9izsZlI4lXw?pwd=x7xa) with fetch code: x7xa or on [Google drive](https://drive.google.com/file/d/1--aNySTqR-QHi_2iO4H8B8DnPttwl2Nh/view?usp=sharing)
 
-Trained only with DUTLF-FS on [baidu pan](https://pan.baidu.com/s/1luKlhBIXL0HdqxwbZZkgqg?pwd=s7vn) with fetch code: s7vn
+Trained only with DUTLF-FS on [baidu pan](https://pan.baidu.com/s/1luKlhBIXL0HdqxwbZZkgqg?pwd=s7vn) with fetch code: s7vn or on [Google drive](https://drive.google.com/file/d/1c5CIpZWOrECslIOIl0ZewH7dKw6tZT7i/view?usp=share_link)
 
 
 # Citation
